@@ -1,4 +1,4 @@
-name: Upstream Sync
+name: 定时同步上游仓库
 
 permissions:
   contents: write
